@@ -9,6 +9,5 @@
 ## COVID_19 Daily Cases
 ### Analysing and visauling a COVID_19 Database
 1. The daily trends of Confirmed cases, Deaths, Recoveries and Testing.
-   ![](
-3. The spread of COVID_19 cases.
-4. COVID_19 Statistics accross diffirent Countries.
+2. The spread of COVID_19 cases.
+3. COVID_19 Statistics accross diffirent Countries.
